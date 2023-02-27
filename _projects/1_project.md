@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: Project 1
+description: Object Detection Hackathon on underwater pipes
+img: assets/img/pipe.png
 importance: 1
-category: work
+redirect: https://github.com/Northerman/object_detection_hackathon
+category: Personal Project
 ---
 
 Every project has a beautiful feature showcase page.

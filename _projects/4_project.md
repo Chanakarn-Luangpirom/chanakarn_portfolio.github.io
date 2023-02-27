@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Hackathon 3
+description: Sentiment Prediction modeling (2nd place / 356 teams)
+img: assets/img/shopee.jpg
+redirect: https://www.kaggle.com/code/sanxuwen/shopee-sentiment-analysis-2nd-place-solution/notebook
 importance: 3
-category: fun
+category: hackathon
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: Project 2
+description: Trading bot on AWS
+img: assets/img/trade_bot.jpg
 importance: 2
-category: work
+redirect: https://github.com/Northerman/aws_tradingbot
+category: Personal Project
 ---
 
 Every project has a beautiful feature showcase page.

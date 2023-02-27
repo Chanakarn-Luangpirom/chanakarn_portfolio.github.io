@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: This page demonstrate my past data science related projects that I've worked on. It contains a brief summary of what I've done and also a link to each individual project repository for more details and code!
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [Personal Project, hackathon]
 horizontal: false
 ---
 

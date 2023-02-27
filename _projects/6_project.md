@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: Hackathon 2
+description: Shopee Product Detection (63rd place / 823 teams)
+img: assets/img/shopee.jpg
+importance: 3
+redirect: https://www.kaggle.com/code/sanxuwen/product-detection-tans/notebook
+category: hackathon
 ---
 
 Every project has a beautiful feature showcase page.

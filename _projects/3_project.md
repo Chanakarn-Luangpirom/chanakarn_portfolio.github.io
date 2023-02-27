@@ -1,11 +1,11 @@
 ---
 layout: page
 title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+description: Salary Prediction Chatbot
+img: assets/img/chatbot_flow.png
+redirect: https://github.com/Northerman/salary_bot
 importance: 3
-category: work
+category: Personal Project
 ---
 
 Every project has a beautiful feature showcase page.
