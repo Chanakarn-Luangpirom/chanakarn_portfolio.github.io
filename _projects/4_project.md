@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hackathon 3
+title: Hackathon 2
 description: Sentiment Prediction modeling (2nd place / 356 teams)
 img: assets/img/shopee.jpg
 redirect: https://www.kaggle.com/code/sanxuwen/shopee-sentiment-analysis-2nd-place-solution/notebook

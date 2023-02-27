@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hackathon 2
+title: Hackathon 3
 description: Shopee Product Detection (63rd place / 823 teams)
 img: assets/img/shopee.jpg
 importance: 3
